@@ -1,2 +1,1 @@
-# gitpages
-Desc
+# Sample Git Hub Page Commit.
